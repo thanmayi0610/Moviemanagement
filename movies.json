@@ -1,0 +1,24 @@
+[
+  {
+    "id": 187,
+    "title": "mrs",
+    "director": "richa",
+    "releaseYear": 2025,
+    "genre": "family",
+    "ratings": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": 724,
+    "title": "pushpa2",
+    "director": "pushpa",
+    "releaseYear": 2024,
+    "genre": "action",
+    "ratings": [
+      1,
+      5
+    ]
+  }
+]
