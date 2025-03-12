@@ -28,5 +28,13 @@
     "releaseYear": 2025,
     "genre": "Drama",
     "ratings": []
+  },
+  {
+    "id": 192,
+    "title": "kgf",
+    "director": "prashanth neel",
+    "releaseYear": 2023,
+    "genre": "Action",
+    "ratings": []
   }
 ]
