@@ -95,11 +95,12 @@ function getTopRatedMovies(): void {
 
 function getMoviesByGenre(): void {
     const genre = readlineSync.question("Enter genre: ").toLowerCase();
-    const filteredMovies = movies.filter(m => m.genre.toLowerCase() === genre);
+    const filteredMovies = movies.filter(m => m.genre && m.genre.toLowerCase() === genre);
 
     if (filteredMovies.length) console.table(filteredMovies);
     else console.log("No movies found!");
 }
+
 
 function getMoviesByDirector(): void {
     const director = readlineSync.question("Enter director: ").toLowerCase();

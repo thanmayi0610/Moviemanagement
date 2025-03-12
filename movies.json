@@ -22,25 +22,6 @@
     ]
   },
   {
-    "id": 976,
-    "title": "kgf",
-    "director": "rajmoli",
-    "releaseYear": 2023,
-    "genreVotes": {
-      "Action": 0,
-      "Drama": 0,
-      "Comedy": 0,
-      "Thriller": 0,
-      "Horror": 0,
-      "Sci-Fi": 0,
-      "Romance": 0,
-      "Adventure": 0
-    },
-    "ratings": [
-      5
-    ]
-  },
-  {
     "id": 512,
     "title": "chhaava",
     "director": "lakshman",
